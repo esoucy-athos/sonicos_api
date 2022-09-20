@@ -1,0 +1,9 @@
+{
+    "device1": {
+        "name": "name",
+        "ip": "ip",
+        "port": 443,
+        "username": "username",
+        "password": "password"
+    }
+}
